@@ -1,16 +1,23 @@
-# innario_campeggio
+# Al servizio del Re
 
-I cantici del turno Giovani 1 2022 a portata di mano.
+Al servizio del Re è l'applicazione ufficiale del Turno Giovani 1, anno 2022, del campeggio Cristiano Evangelico Valdulivi.  
+Scarica l'applicazione per avere la panoramica sugli orari del turno, gli studi e tutti i cantici della raccolta del Turno.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+<div>
+  <img src="https://user-images.githubusercontent.com/90036768/182560202-7d024b28-2d4b-43fa-b04e-0e1fd4b058cc.png" alt="Programma giornaliero" width="15%">
+  <img src="https://user-images.githubusercontent.com/90036768/182560222-2e3a132b-65bc-476f-86e6-6c73572d2cc7.png" alt="Studi biblici e foto dal turno" width="15%">
+  <img src="https://user-images.githubusercontent.com/90036768/182560233-aa55c20f-6ea2-4e1b-ab15-420b1960922d.png" alt="Tutti i cantici del turno" width="15%">
+  <img src="https://user-images.githubusercontent.com/90036768/182560241-4ccb83cd-863e-4f36-a2b9-bb27d9a6eb52.png" alt="Tutti i cantici del turno" width="15%">
+  <img src="https://user-images.githubusercontent.com/90036768/182560248-056ecee6-8e59-4ac9-a19a-ab54e95ec2a3.png" alt="Light mode e dark mode" width="15%">
+  <img src="https://user-images.githubusercontent.com/90036768/182560254-6b8ac69f-2b8e-43f0-a3d1-44605a6a016a.png" alt="Dimensione carattere e interlina modificabili" width="15%">
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+## Scarica
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<a href="https://play.google.com/store/apps/details?id=com.davidebelvisi.innario_campeggio" target="_blank"><img src="https://user-images.githubusercontent.com/90036768/182561881-b812ae5b-dc18-4958-868a-460b585b032f.png" alt="Disponibile su Google Play Store" width="20%"></a>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Trattamento dati
+
+[Privacy Policy](privacy-policy.md)
