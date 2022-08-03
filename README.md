@@ -1,7 +1,9 @@
 # Al servizio del Re
 
-Al servizio del Re è l'applicazione ufficiale del Turno Giovani 1, anno 2022, del campeggio Cristiano Evangelico Valdulivi.  
-Scarica l'applicazione per avere la panoramica sugli orari del turno, gli studi e tutti i cantici della raccolta del Turno.
+L'applicazione ufficiale del Turno Giovani 1, anno 2022, del campeggio Cristiano Evangelico Valdulivi.  
+Scaricala per avere la panoramica sugli orari del turno, gli studi e tutti i cantici della raccolta del Turno.
+
+![Logo](https://user-images.githubusercontent.com/90036768/182570112-9e3fdc98-7d59-4c9c-a5f2-820a85bb709a.jpg)
 
 ## Screenshot
 
