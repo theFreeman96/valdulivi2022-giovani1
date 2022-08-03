@@ -16,7 +16,7 @@ Scarica l'applicazione per avere la panoramica sugli orari del turno, gli studi 
 
 ## Scarica
 
-<a href="https://play.google.com/store/apps/details?id=com.davidebelvisi.innario_campeggio" target="_blank"><img src="https://user-images.githubusercontent.com/90036768/182561881-b812ae5b-dc18-4958-868a-460b585b032f.png" alt="Disponibile su Google Play Store" width="20%"></a>
+<a href="https://play.google.com/store/apps/details?id=com.davidebelvisi.innario_campeggio" target="_blank"><img src="https://user-images.githubusercontent.com/90036768/182561881-b812ae5b-dc18-4958-868a-460b585b032f.png" alt="Disponibile su Google Play Store" width="250px"></a>
 
 ## Trattamento dati
 
